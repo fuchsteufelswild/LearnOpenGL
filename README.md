@@ -1,2 +1,5 @@
 # LearnOpenGL
-Learning OpenGL while creating a simple Renderer
+Learning OpenGL while creating a simple Renderer.
+
+
+I am going to add additional features to this project over time.
